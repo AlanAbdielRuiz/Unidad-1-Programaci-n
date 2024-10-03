@@ -5,8 +5,7 @@ Algoritmo sin_titulo
 	Leer NUM
 	CUA=NUM*NUM
 	CUB=NUM*CUA
-	Escribir " El cuadrado del numero es: ",CUA
-	Escribir " El cubo del numero es: ",CUB
+	Escribir " El cuadrado del numero ",NUM  " es: ",CUA " y el cubo es:",CUB
 	
 	
 FinAlgoritmo
